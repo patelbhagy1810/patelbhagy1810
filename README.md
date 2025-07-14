@@ -39,7 +39,7 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|-----------|
-| 🔗 [**Wanderlust**](https://github.com/patelbhagy1810/wanderlust.git) | Airbnb-style rental platform | MERN (MongoDB, Express, React, Node) | [View Site]([https://wanderlust-live.vercel.app](https://wanderlust-ttoj.onrender.com/listings)) |
+| 🔗 [**Wanderlust**](https://github.com/patelbhagy1810/wanderlust.git) | Airbnb-style rental platform | MERN (MongoDB, Express, React, Node) | [View Site](https://wanderlust-ttoj.onrender.com/listings) |
 | 🔗 [**FuelPro**](https://github.com/patelbhagy1810/FuelPro.git) | Fuel management web app (Infosys Internship) | Spring Boot, Thymeleaf, MySQL | - |
 | 🔗 [**ExpandingExpress**]([https://github.com/your-username/franchise-connect](https://github.com/patelbhagy1810/HackTheSpring25.git)) | Franchise investment & funding portal | React, Node.js, MongoDB | - |
 | 🔗 [**CAMS**](https://github.com/patelbhagy1810/CAMS.git) | Campus Asset Management System | MERN (MongoDB, Express, React, Node) | - |
