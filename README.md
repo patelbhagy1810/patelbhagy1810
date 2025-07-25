@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
-- 🎓 Final Year IT Student at [GEC GANDHINAGAR, GUJARAT]
+- 🎓 Final Year CE Student at [GEC GANDHINAGAR, GUJARAT]
 - 👨‍💻 I’ve built multiple full-stack projects including:
   - `Wanderlust` – Airbnb-style rental app
   - `FuelPro` – Fuel management system (Infosys internship)
